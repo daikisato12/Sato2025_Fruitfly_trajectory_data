@@ -2,8 +2,9 @@
 IN this repository you find codes and data used in Sato et al. (2024) Multifaceted and extensive behavioral trajectories of genomically diverse _Drosophila_ lines.
 
 ## Codes and Data
-A script used to analyze data and make Figure 2 is stored in `/codes/` directory. The validation datasets are stored in `/data/` directory.
+Scripts used to make raw and corrected tracking data are stored in `codes/tracking` directory. Scripts to make Figures 2 and 3 are stored in `/codes/figures` directory. The validation datasets are stored in `/data/` directory.
 
 ## Tested environments
-- macOS Big Sur version 11.6.4
-- R version 4.3.0
+- macOS Sonoma version 14.6.1
+- R version 4.4.2
+- Python 3.10.10
