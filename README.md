@@ -1,5 +1,5 @@
-# Sato2024_Fruitfly_trajectory_data
-IN this repository you find codes and data used in Sato et al. (2024) Multifaceted and extensive behavioral trajectories of genomically diverse _Drosophila_ lines.
+# Sato2025_Fruitfly_trajectory_data
+IN this repository you find codes and data used in Sato et al. (2025) Multifaceted and extensive behavioral trajectories of genomically diverse _Drosophila_ lines.
 
 ## Codes and Data
 - Scripts used to make raw and corrected tracking data are stored in `/codes/tracking` directory. 
